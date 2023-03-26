@@ -1,0 +1,1 @@
+<view><button bindtap="{{a}}">打开</button><button bindtap="{{b}}">获取信息</button><button bindtap="{{c}}">登录</button><button open-type="getPhoneNumber" bindgetphonenumber="{{d}}">获取手机号</button><button bindtap="{{e}}">获取微信部署</button><button bindtap="{{f}}">获取位置</button><button bindtap="{{g}}">打开地图</button></view>
